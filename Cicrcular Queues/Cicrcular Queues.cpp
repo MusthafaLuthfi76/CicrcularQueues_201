@@ -69,7 +69,7 @@ public :
             return;
         }
 
-        cout << "\nElemen in the queu are ...\n";
+        cout << "\nElemen in the queue are ...\n";
 
         //Jika FRONT_position <= REAR_position, iterasi dari FRONT hingga REAR
         if (FRONT_position <= REAR_position) {
